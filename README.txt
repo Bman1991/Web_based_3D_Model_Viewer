@@ -1,7 +1,7 @@
 Web based  3D Model Viewer
 
 Description:
-This web based 3D model viewer was designed to display models over the internet using THREE.js library. The problem this model viewer was solving is a way to display 3D models without taken and displaying multiple pictures. 
+This web based 3D model viewer was designed to display models over the internet using THREE.js library. The problem this model viewer was solving is a way to display 3D models without taking and displaying multiple pictures. 
 
 How to use: 
   -Left click to rotate around object 
